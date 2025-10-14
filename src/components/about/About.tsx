@@ -25,7 +25,7 @@ const About = () => {
 						</p>
 						<p>
 							<b>Teaching Associate</b> and <b>Masters</b> student
-							at Faculty of Sciences, University of Novi Sad. 
+							at the Faculty of Sciences, University of Novi Sad. 
 							Graduate in <b>Informatics – Information Technologies</b>.
 						</p>
 						<p>
