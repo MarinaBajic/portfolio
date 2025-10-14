@@ -52,6 +52,7 @@
 	border: 2px solid var(--color-primary);
 	color: var(--color-primary);
 	backface-visibility: hidden;
+	-webkit-backface-visibility: hidden;
 
 	body[data-theme='designer'] & {
 		border-color: var(--color-secondary);
