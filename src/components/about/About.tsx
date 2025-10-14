@@ -24,14 +24,12 @@ const About = () => {
 							I do.
 						</p>
 						<p>
-							<b>Teaching Associate</b> and <b>Master's</b> student
+							<b>Teaching Associate</b> and <b>Masters</b> student
 							at Faculty of Sciences, University of Novi Sad. 
 							Graduate in <b>Informatics – Information Technologies</b>.
 						</p>
 						<p>
-							Likes going to <b>hackathons</b>, designing and
-							developing web applications, reading, sewing, and
-							doing puzzles.
+							Likes going to <b>hackathons</b>, designing and developing web applications, <b>dancing</b>, reading, sewing, and doing puzzles.
 						</p>
 					</div>
 				</div>
