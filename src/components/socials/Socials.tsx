@@ -15,7 +15,7 @@ type Social = {
 const socials: Array<Social> = [
 	{ href: 'https://www.linkedin.com/in/marina-bajic/', icon: faLinkedinIn },
 	{ href: 'https://github.com/MarinaBajic', icon: faGithub },
-	{ href: 'mailto:marinabajic10@gmail.com', icon: faEnvelope },
+	// { href: 'mailto:email', icon: faEnvelope },
 ];
 
 const Socials = () => {

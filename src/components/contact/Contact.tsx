@@ -29,7 +29,7 @@ const Contact = () => {
 					</div>
 					<a
 						className={styles.back}
-						href="mailto:marinabajic10@gmail.com"
+						// href="mailto:email"
 					>
 						<Logo color={themeColors[theme] || 'white'} />
 						<div className={styles.signature}>
@@ -37,7 +37,7 @@ const Contact = () => {
 							<span>Front-end Developer</span>
 						</div>
 						<span className={styles.email}>
-							marinabajic10@gmail.com
+							{/* email */}
 						</span>
 					</a>
 				</div>
