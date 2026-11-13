@@ -8,7 +8,7 @@
 				"title": "Teaching Associate",
 				"company": "University of Novi Sad, Faculty of Sciences",
 				"companyLink": "https://informatika.pmf.uns.ac.rs/",
-				"description": "Component Based Development (IOI19) | Advanced Web Programming (IOI17) | Databases 2 (IOU19)"
+				"description": "Component Based Development (IT401) | Advanced Web Programming (IT628) | Spatial Databases (GI402) | Programming and Development of GIS Applications (GIS303)"
 			}
 		]
 	},
@@ -37,15 +37,22 @@
 		"heading": "Education",
 		"experiences": [
 			{
-				"start": "2024 -",
+				"start": "Oct 2026 -",
 				"end": "present",
+				"company": "University of Novi Sad, Faculty of Sciences",
+				"companyLink": "https://informatika.pmf.uns.ac.rs/",
+				"description": "Ph.D. studies in Informatics"
+			},
+			{
+				"start": "Oct 2024 -",
+				"end": "Sep 2026",
 				"company": "University of Novi Sad, Faculty of Sciences",
 				"companyLink": "https://informatika.pmf.uns.ac.rs/",
 				"description": "Master's degree in Information Technologies"
 			},
 			{
-				"start": "2020 -",
-				"end": "2024",
+				"start": "Oct 2020 -",
+				"end": "Jul 2024",
 				"company": "University of Novi Sad, Faculty of Sciences",
 				"companyLink": "https://informatika.pmf.uns.ac.rs/",
 				"description": "Bachelor's degree in Information Technologies"
@@ -56,7 +63,7 @@
 		"heading": "Organizations",
 		"experiences": [
 			{
-				"start": "2024 -",
+				"start": "Mar 2024 -",
 				"end": "present",
 				"title": "UI/UX Designer & Web Developer",
 				"company": "BarKod",
@@ -64,8 +71,8 @@
 				"description": "Figma | Astro | Tailwind"
 			},
 			{
-				"start": "2022 -",
-				"end": "2023",
+				"start": "Dec 2022 -",
+				"end": "Sep 2023",
 				"title": "IT Coordinator & Front-end Developer",
 				"company": "BEST",
 				"companyLink": "https://bestns.org.rs/",
